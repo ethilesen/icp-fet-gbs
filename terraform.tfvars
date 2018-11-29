@@ -1,6 +1,6 @@
-sl_username = "1706635_no010925@no.ibm.com"
-sl_api_key  = "4d5ff5bab664094dd7d69c0bdc01a31895285f73e8b1f727901ed75d091b884e"
-key_name    = ["espenthilesen","BjornS","eivinda"]
+sl_username = ""
+sl_api_key  = ""
+key_name    = []
 datacenter  = "osl01"
 os_reference_code = "UBUNTU_16_64"
 icp_inception_image = "ibmcom/icp-inception:3.1.1"
